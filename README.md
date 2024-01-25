@@ -6,7 +6,7 @@ Cyber threat attribution can play an important role in increasing resilience aga
 ## Citations
 If you use the source code, the datasets, or otherwise draw from this work, please cite the following paper:
 
-**Koen T. W. Teuwen, "A Modular Approach to Cyber Threat Attribution using Opinion Pools," 2023 IEEE International Conference on Big Data (Big Data) Institute of Electrical and Electronics Engineers, Sorrento, Italy, 2023, pp. 3089-3098, doi: [10.1109/BigData59044.2023.10386708](https://doi.org/10.1109/BigData59044.2023.10386708).**
+**Koen T. W. Teuwen, "A Modular Approach to Cyber Threat Attribution using Opinion Pools," 2023 IEEE International Conference on Big Data (Big Data), Sorrento, Italy, 2023, pp. 3089-3098, doi: [10.1109/BigData59044.2023.10386708](https://doi.org/10.1109/BigData59044.2023.10386708).**
 
 ## License
 This work is licensed under the Creative Commons Attribution 4.0 International License. To view a copy of this license, visit http://creativecommons.org/licenses/by/4.0/ or send a letter to Creative Commons, PO Box 1866, Mountain View, CA 94042, USA.
